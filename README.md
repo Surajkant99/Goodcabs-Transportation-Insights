@@ -58,7 +58,7 @@ GoodCabs aims to achieve ambitious performance targets for 2024. The data analyt
   -  16.13% from new customers (₹0.65M).
 
 ## 🔗 Important links
-- [Live PowerBI dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDJkZGE0OTktNzQ0OS00YTA2LTlmYWItMmE1MGJhMTM5MDBmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+- [Live PowerBI dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDAxMGJkYjctM2I1NC00NzQ2LWI5NGMtM2VhOTE4ZDU3MmQ0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 ## 📞 Contact
 - [Linkedin](https://www.linkedin.com/in/surajkant9/)
 - [Email](mailto:surajkant264@gmail.com)
