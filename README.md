@@ -12,7 +12,7 @@ GoodCabs aims to achieve ambitious performance targets for 2024. The data analyt
 - Trip Distribution
 - New v/s Repeat Passenger Trends
 
-## 📌 Key Metrics
+## 🔑 Key Metrics
 - Total Trips
 - Total Fare (Revenue)
 - Total Distance Travelled
