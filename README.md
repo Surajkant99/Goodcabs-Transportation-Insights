@@ -59,6 +59,7 @@ GoodCabs aims to achieve ambitious performance targets for 2024. The data analyt
 
 ## 🔗 Important links
 - [Live PowerBI dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDAxMGJkYjctM2I1NC00NzQ2LWI5NGMtM2VhOTE4ZDU3MmQ0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+- [Linkedin Post](https://www.linkedin.com/feed/update/urn:li:activity:7337079911012081664/)
 
 ## 📞 Contacts
 - [Protfolio](https://codebasics.io/portfolio/Suraj-Kant)
